@@ -48,6 +48,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 | --- | --- |
 | `arrays/` | array traversal, hashing, prefix sums |
 | `two_pointers/` | opposing and same-direction pointers on sorted input |
+| `sliding_window/` | contiguous subarray and substring windows |
 
 Directories are added as new patterns are covered.
 
@@ -66,6 +67,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | --- | --- |
 | Arrays | 1 |
 | Two Pointers | 1 |
-| **Total** | **2** |
+| Sliding Window | 1 |
+| **Total** | **3** |
 
-By difficulty: 2 Medium.
+By difficulty: 3 Medium.
