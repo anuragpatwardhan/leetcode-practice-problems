@@ -46,6 +46,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 
 | Directory | Pattern |
 | --- | --- |
+| `arrays/` | array traversal, hashing, prefix sums |
 
 Directories are added as new patterns are covered.
 
@@ -62,4 +63,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 
 | Topic | Solved |
 | --- | --- |
-| **Total** | **0** |
+| Arrays | 1 |
+| **Total** | **1** |
+
+By difficulty: 1 Medium.
