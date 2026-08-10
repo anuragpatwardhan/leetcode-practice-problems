@@ -47,6 +47,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 | Directory | Pattern |
 | --- | --- |
 | `arrays/` | array traversal, hashing, prefix sums |
+| `two_pointers/` | opposing and same-direction pointers on sorted input |
 
 Directories are added as new patterns are covered.
 
@@ -64,6 +65,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Topic | Solved |
 | --- | --- |
 | Arrays | 1 |
-| **Total** | **1** |
+| Two Pointers | 1 |
+| **Total** | **2** |
 
-By difficulty: 1 Medium.
+By difficulty: 2 Medium.
