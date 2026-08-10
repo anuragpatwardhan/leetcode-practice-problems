@@ -49,6 +49,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `arrays/` | array traversal, hashing, prefix sums |
 | `two_pointers/` | opposing and same-direction pointers on sorted input |
 | `sliding_window/` | contiguous subarray and substring windows |
+| `prefix_sum/` | running totals with a hash map of seen prefixes |
 
 Directories are added as new patterns are covered.
 
@@ -68,6 +69,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Arrays | 1 |
 | Two Pointers | 1 |
 | Sliding Window | 1 |
-| **Total** | **3** |
+| Prefix Sum | 1 |
+| **Total** | **4** |
 
-By difficulty: 3 Medium.
+By difficulty: 4 Medium.
