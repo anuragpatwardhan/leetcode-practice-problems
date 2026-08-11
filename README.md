@@ -50,6 +50,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `two_pointers/` | opposing and same-direction pointers on sorted input |
 | `sliding_window/` | contiguous subarray and substring windows |
 | `prefix_sum/` | running totals with a hash map of seen prefixes |
+| `binary_search/` | logarithmic search, including over rotated input |
 
 Directories are added as new patterns are covered.
 
@@ -70,6 +71,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Two Pointers | 1 |
 | Sliding Window | 1 |
 | Prefix Sum | 1 |
-| **Total** | **4** |
+| Binary Search | 1 |
+| **Total** | **5** |
 
-By difficulty: 4 Medium.
+By difficulty: 5 Medium.
