@@ -76,8 +76,8 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Prefix Sum | 1 |
 | Binary Search | 3 |
 | Monotonic Stack | 2 |
-| Intervals | 0 |
+| Intervals | 1 |
 | Linked List | 0 |
-| **Total** | **11** |
+| **Total** | **12** |
 
-By difficulty: 8 Medium, 3 Hard.
+By difficulty: 9 Medium, 3 Hard.
