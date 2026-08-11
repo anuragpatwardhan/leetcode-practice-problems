@@ -81,7 +81,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Intervals | 2 |
 | Linked List | 1 |
 | Stack | 1 |
-| Queue | 0 |
-| **Total** | **15** |
+| Queue | 1 |
+| **Total** | **16** |
 
-By difficulty: 11 Medium, 4 Hard.
+By difficulty: 11 Medium, 5 Hard.
