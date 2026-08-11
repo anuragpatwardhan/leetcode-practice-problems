@@ -54,6 +54,8 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `monotonic_stack/` | next-greater and next-smaller queries in one pass |
 | `intervals/` | sorting and sweeping over ranges |
 | `linked_list/` | in-place pointer manipulation |
+| `stack/` | last-in-first-out evaluation |
+| `queue/` | deques, including monotonic windows |
 
 Directories are added as new patterns are covered.
 
@@ -78,6 +80,8 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Monotonic Stack | 2 |
 | Intervals | 2 |
 | Linked List | 1 |
-| **Total** | **14** |
+| Stack | 1 |
+| Queue | 0 |
+| **Total** | **15** |
 
-By difficulty: 10 Medium, 4 Hard.
+By difficulty: 11 Medium, 4 Hard.
