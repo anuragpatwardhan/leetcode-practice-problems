@@ -69,9 +69,9 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | --- | --- |
 | Arrays | 1 |
 | Two Pointers | 1 |
-| Sliding Window | 1 |
+| Sliding Window | 2 |
 | Prefix Sum | 1 |
 | Binary Search | 2 |
-| **Total** | **6** |
+| **Total** | **7** |
 
-By difficulty: 6 Medium.
+By difficulty: 7 Medium.
