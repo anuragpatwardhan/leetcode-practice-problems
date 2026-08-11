@@ -51,6 +51,9 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `sliding_window/` | contiguous subarray and substring windows |
 | `prefix_sum/` | running totals with a hash map of seen prefixes |
 | `binary_search/` | logarithmic search, including over rotated input |
+| `monotonic_stack/` | next-greater and next-smaller queries in one pass |
+| `intervals/` | sorting and sweeping over ranges |
+| `linked_list/` | in-place pointer manipulation |
 
 Directories are added as new patterns are covered.
 
@@ -72,6 +75,9 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Sliding Window | 3 |
 | Prefix Sum | 1 |
 | Binary Search | 3 |
-| **Total** | **9** |
+| Monotonic Stack | 1 |
+| Intervals | 0 |
+| Linked List | 0 |
+| **Total** | **10** |
 
-By difficulty: 7 Medium, 2 Hard.
+By difficulty: 8 Medium, 2 Hard.
