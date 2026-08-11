@@ -75,9 +75,9 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Sliding Window | 3 |
 | Prefix Sum | 1 |
 | Binary Search | 3 |
-| Monotonic Stack | 1 |
+| Monotonic Stack | 2 |
 | Intervals | 0 |
 | Linked List | 0 |
-| **Total** | **10** |
+| **Total** | **11** |
 
-By difficulty: 8 Medium, 2 Hard.
+By difficulty: 8 Medium, 3 Hard.
