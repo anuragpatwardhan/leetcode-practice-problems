@@ -80,8 +80,8 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Monotonic Stack | 2 |
 | Intervals | 2 |
 | Linked List | 1 |
-| Stack | 1 |
+| Stack | 2 |
 | Queue | 1 |
-| **Total** | **17** |
+| **Total** | **18** |
 
-By difficulty: 1 Easy, 11 Medium, 5 Hard.
+By difficulty: 2 Easy, 11 Medium, 5 Hard.
