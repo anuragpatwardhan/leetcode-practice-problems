@@ -2,8 +2,8 @@
 
 Python solutions to LeetCode problems, organised by the pattern each one exercises
 rather than by problem number. The focus is Medium and Hard problems that map onto
-recurring interview patterns, and the write-up for each problem matters as much as
-the code.
+recurring interview patterns, alongside the foundational Easy problems the harder ones
+build on. The write-up for each problem matters as much as the code.
 
 ## Language and tooling
 
@@ -72,7 +72,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 
 | Topic | Solved |
 | --- | --- |
-| Arrays | 1 |
+| Arrays | 2 |
 | Two Pointers | 1 |
 | Sliding Window | 3 |
 | Prefix Sum | 1 |
@@ -82,6 +82,6 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Linked List | 1 |
 | Stack | 1 |
 | Queue | 1 |
-| **Total** | **16** |
+| **Total** | **17** |
 
-By difficulty: 11 Medium, 5 Hard.
+By difficulty: 1 Easy, 11 Medium, 5 Hard.
