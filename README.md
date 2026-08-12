@@ -79,9 +79,9 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Binary Search | 3 |
 | Monotonic Stack | 2 |
 | Intervals | 2 |
-| Linked List | 1 |
+| Linked List | 2 |
 | Stack | 2 |
 | Queue | 1 |
-| **Total** | **18** |
+| **Total** | **19** |
 
-By difficulty: 2 Easy, 11 Medium, 5 Hard.
+By difficulty: 3 Easy, 11 Medium, 5 Hard.
