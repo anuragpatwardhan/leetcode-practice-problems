@@ -56,6 +56,8 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `linked_list/` | in-place pointer manipulation |
 | `stack/` | last-in-first-out evaluation |
 | `queue/` | deques, including monotonic windows |
+| `trees/` | binary tree traversal, breadth and depth first |
+| `bst/` | ordering invariants on search trees |
 
 Directories are added as new patterns are covered.
 
@@ -79,9 +81,11 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Binary Search | 3 |
 | Monotonic Stack | 2 |
 | Intervals | 3 |
-| Linked List | 3 |
+| Linked List | 4 |
 | Stack | 2 |
 | Queue | 1 |
-| **Total** | **21** |
+| Trees | 0 |
+| BST | 0 |
+| **Total** | **22** |
 
-By difficulty: 3 Easy, 13 Medium, 5 Hard.
+By difficulty: 3 Easy, 14 Medium, 5 Hard.
