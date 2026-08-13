@@ -85,7 +85,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Stack | 2 |
 | Queue | 1 |
 | Trees | 1 |
-| BST | 0 |
-| **Total** | **23** |
+| BST | 1 |
+| **Total** | **24** |
 
-By difficulty: 3 Easy, 15 Medium, 5 Hard.
+By difficulty: 3 Easy, 16 Medium, 5 Hard.
