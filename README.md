@@ -58,6 +58,8 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `queue/` | deques, including monotonic windows |
 | `trees/` | binary tree traversal, breadth and depth first |
 | `bst/` | ordering invariants on search trees |
+| `heap/` | priority queues and bounded selection |
+| `trie/` | prefix trees over strings |
 
 Directories are added as new patterns are covered.
 
@@ -86,6 +88,8 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Queue | 1 |
 | Trees | 1 |
 | BST | 1 |
-| **Total** | **24** |
+| Heap | 0 |
+| Trie | 1 |
+| **Total** | **25** |
 
-By difficulty: 3 Easy, 16 Medium, 5 Hard.
+By difficulty: 3 Easy, 17 Medium, 5 Hard.
