@@ -81,7 +81,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Two Pointers | 1 |
 | Sliding Window | 3 |
 | Prefix Sum | 1 |
-| Binary Search | 3 |
+| Binary Search | 4 |
 | Monotonic Stack | 2 |
 | Intervals | 3 |
 | Linked List | 5 |
@@ -92,6 +92,6 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Heap | 1 |
 | Trie | 2 |
 | Graphs | 1 |
-| **Total** | **34** |
+| **Total** | **35** |
 
-By difficulty: 4 Easy, 23 Medium, 7 Hard.
+By difficulty: 5 Easy, 23 Medium, 7 Hard.
