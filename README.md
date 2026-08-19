@@ -84,7 +84,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Binary Search | 3 |
 | Monotonic Stack | 2 |
 | Intervals | 3 |
-| Linked List | 4 |
+| Linked List | 5 |
 | Stack | 2 |
 | Queue | 1 |
 | Trees | 5 |
@@ -92,6 +92,6 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Heap | 1 |
 | Trie | 2 |
 | Graphs | 1 |
-| **Total** | **33** |
+| **Total** | **34** |
 
-By difficulty: 3 Easy, 23 Medium, 7 Hard.
+By difficulty: 4 Easy, 23 Medium, 7 Hard.
