@@ -61,6 +61,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `heap/` | priority queues and bounded selection |
 | `trie/` | prefix trees over strings |
 | `graphs/` | traversal, cycle detection, topological order and union-find |
+| `backtracking/` | exhaustive search with undo |
 
 Directories are added as new patterns are covered.
 
@@ -92,6 +93,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Heap | 1 |
 | Trie | 2 |
 | Graphs | 6 |
-| **Total** | **41** |
+| Backtracking | 1 |
+| **Total** | **42** |
 
-By difficulty: 6 Easy, 28 Medium, 7 Hard.
+By difficulty: 6 Easy, 29 Medium, 7 Hard.
