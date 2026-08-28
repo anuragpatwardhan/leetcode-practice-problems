@@ -60,7 +60,7 @@ words. Problem statements are not reproduced here — follow the link for those.
 | `bst/` | ordering invariants on search trees |
 | `heap/` | priority queues and bounded selection |
 | `trie/` | prefix trees over strings |
-| `graphs/` | traversal, cycle detection and topological order |
+| `graphs/` | traversal, cycle detection, topological order and union-find |
 
 Directories are added as new patterns are covered.
 
@@ -91,7 +91,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | BST | 2 |
 | Heap | 1 |
 | Trie | 2 |
-| Graphs | 5 |
-| **Total** | **40** |
+| Graphs | 6 |
+| **Total** | **41** |
 
-By difficulty: 6 Easy, 27 Medium, 7 Hard.
+By difficulty: 6 Easy, 28 Medium, 7 Hard.
