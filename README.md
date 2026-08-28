@@ -91,7 +91,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | BST | 2 |
 | Heap | 1 |
 | Trie | 2 |
-| Graphs | 1 |
-| **Total** | **36** |
+| Graphs | 2 |
+| **Total** | **37** |
 
-By difficulty: 6 Easy, 23 Medium, 7 Hard.
+By difficulty: 6 Easy, 24 Medium, 7 Hard.
