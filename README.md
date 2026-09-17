@@ -93,7 +93,7 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Heap | 1 |
 | Trie | 2 |
 | Graphs | 6 |
-| Backtracking | 1 |
-| **Total** | **42** |
+| Backtracking | 2 |
+| **Total** | **43** |
 
-By difficulty: 6 Easy, 29 Medium, 7 Hard.
+By difficulty: 6 Easy, 30 Medium, 7 Hard.
