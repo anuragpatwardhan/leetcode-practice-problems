@@ -90,10 +90,10 @@ Complexities are given in Big-O terms. Unless stated otherwise:
 | Queue | 1 |
 | Trees | 5 |
 | BST | 2 |
-| Heap | 1 |
+| Heap | 2 |
 | Trie | 2 |
 | Graphs | 6 |
 | Backtracking | 2 |
-| **Total** | **43** |
+| **Total** | **44** |
 
-By difficulty: 6 Easy, 30 Medium, 7 Hard.
+By difficulty: 6 Easy, 31 Medium, 7 Hard.
