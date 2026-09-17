@@ -69,6 +69,16 @@ since those localise a failure better than a diff of two large lists: results ar
 length, each is a rearrangement of the input, all are distinct, all are separate list
 objects, the count is exactly `n!`, and the input is unmodified.
 
+Three wrong versions were swapped in to check the suite actually reacts — storing the live
+path, never releasing a choice on resume, and returning `[]` for an empty input — and all
+three fail it.
+
+One caveat worth recording. Replacing a frame's iterator with a fresh one on resume, instead
+of continuing it, makes the suite **hang rather than fail**: the frame re-explores its
+candidates forever. Termination is doing the work an assertion would normally do, which is a
+weaker signal — a failing test names the problem, a hanging one only says something is
+wrong.
+
 ## Complexity
 
 - **Time:** `O(n × n!)` — `n!` orderings, each costing `O(n)` to copy out.
